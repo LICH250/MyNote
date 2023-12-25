@@ -1,0 +1,3 @@
+[submodule "项目/learn_from_others"]
+	path = 项目/learn_from_others
+	url = https://github.com/robinyangyanfeng/rsicv32.git
